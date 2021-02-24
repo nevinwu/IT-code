@@ -12,8 +12,6 @@ step, one newly introduced node (see Figure 1) randomly selects m target node(s)
 and links to it with probability p, as well as to all ancestor nodes of the
 target node, with probability q.
 
-See network_model.pdf.
-
 Version: 1.0
 Author: Francisco Martinez Pico
 
